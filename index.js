@@ -4,6 +4,7 @@ function takeANumber(katzDeliLine, nextPerson) {
 }
 
 function nowServing(katzDeliLine) {
+  if ()
   return katzDeliLine[0];
   katzDeliLine.shift();
 }
