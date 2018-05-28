@@ -20,7 +20,7 @@ function currentLine(katzDeliLine) {
   }
   else {
     var katzDeliLine2 = [];
-    katzDeliLine2.push(`1. ${katzDeliLine[0]}`)
+    katzDeliLine2.push(`1. ${katzDeliLine[0]}`);
     for (var i = 1; i < katzDeliLine.length; i++) {
         katzDeliLine2.push(` ${i + 1}. ${katzDeliLine[i]}`);
     }
