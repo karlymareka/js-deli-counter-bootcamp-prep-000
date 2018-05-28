@@ -4,5 +4,6 @@ function takeANumber(katzDeliLine, nextPerson) {
 }
 
 function nowServing(katzDeliLine) {
+  return katzDeliLine[0];
   
 }
