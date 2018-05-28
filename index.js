@@ -20,7 +20,7 @@ function currentLine(katzDeliLine) {
   }
   else {
     for (var i = 0; i < katzDeliLine.length; i++) {
-  
+      var 
     }  
   }
 }
